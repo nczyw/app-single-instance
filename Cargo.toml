@@ -3,6 +3,8 @@ name = "app-single-instance"
 version = "0.1.0"
 edition = "2024"
 description = "A lightweight single-instance library for desktop applications."
+keywords = ["single", "singleton", "process", "instance"]
+repository = "https://github.com/nczyw/app-single-instance"
 license = "MIT"
 readme = "README.md"
 
